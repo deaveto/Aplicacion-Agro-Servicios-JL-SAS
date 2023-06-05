@@ -21,7 +21,7 @@ class VentanaNuevoComprador(Frame):
     self.btnGuardarNuevoComprador.configure(state=estado)
     pass
     
-  def fEnterCodigoNuevoComprador(self, event):
+  def fEnterCodigoNuevoComprador(self, event): 
     codigo=self.in_TxtCodigoNuevoComprador.get()
     if codigo.isdigit() and (len(codigo) == 8 or len(codigo) == 10):
       self.fHabilitarInput("normal")

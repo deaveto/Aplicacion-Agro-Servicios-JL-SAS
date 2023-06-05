@@ -218,4 +218,4 @@ class Reporte(Frame):
     scrollBar = Scrollbar(frTablaReportesP2, orient=VERTICAL)
     scrollBar.grid(padx=0, pady=5,row=1, column=1, sticky=S+N+E+W)
     self.grid.config(yscrollcommand=scrollBar.set)
-    scrollBar.config(command=self.grid.yview)
+    scrollBar.config(command=self.grid.yview) 

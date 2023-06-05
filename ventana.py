@@ -84,7 +84,7 @@ class Ventana(Frame):
     for item in self.grid.get_children():
       self.grid.delete(item)
     self.fTotal()
-    messagebox.showwarning(
+    messagebox.showwarning( 
       title="Elementos Eliminados",
       message="Elementos de la tabla se han eliminado"
     )

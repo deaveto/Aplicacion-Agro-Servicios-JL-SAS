@@ -17,7 +17,7 @@ class BaseDatos:
     #self.worksheetProductos = self.sheet.worksheet("Productos")
     #self.worksheetCompradores = self.sheet.worksheet("Compradores")
     #self.worksheetVentas = self.sheet.worksheet("Ventas")
-    
+     
   def __str__(self):
     pass    
     

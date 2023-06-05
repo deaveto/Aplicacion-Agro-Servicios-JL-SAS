@@ -4,7 +4,7 @@ from reporte import *
 from tkinter import ttk
 
 def main():
-  root=Tk()
+  root=Tk() 
   
   panel = ttk.Notebook(root)
   panel.pack(fill="both", expand=YES)
