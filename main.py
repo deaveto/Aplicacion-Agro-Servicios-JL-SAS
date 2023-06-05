@@ -2,7 +2,7 @@ from tkinter import *
 from ventana import *
 from reporte import *
 from tkinter import ttk
-
+#Hola
 def main():
   root=Tk() 
   
