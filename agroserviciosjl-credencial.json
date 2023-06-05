@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agroserviciosjl",
+  "private_key_id": "064e0a0305844c40c8a5764debf6ea5d412074ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDP3W+96CnMf1hC\n4zpI1MyNb2W5A9RO5x+lQ1Yecp++wypRLhfbZxG6KmImXZEvQKDfqAUCTTkXYNNp\nO8grFsJv2k2SxtWfRaHEtAwINm7FEB/SoO7Lq43h0Fo2tnQDwlapHaaXOOJPHYxp\n1oFAISZWAmmAzbqSpnpYJMnH7wZnQzipFHqYaPazIIZO+Bl1uRHoUL5hvoogyTxb\nAfneQeUhLWYHuN38UY85iO4lwBzusc+eLrY9qG8jgB0MCn3N4ANxkv75ehorE7x2\n9WBuJ58GWcM0LvOW2nQPJhRofr6VA3T6cJL1ovlZIehvXxreIu2HjNrM+aH+zutT\ns5+TG94XAgMBAAECggEAEKwRoNlEtP7HzQGdtKbAy11Set74QeXez2oRt7p43puX\nwtAgILxpGxX4LlyV3wTfgmDfGfqoqBvfiRK+8NnP+Zm4XBvvmWlD2tuYFXaMNuke\nrE21KYfWhvSnr7i9oGmPetwCdyGcYT0c/IY0crjV8tMZtDeMDeQlbvlwZ8VfrZt9\nJz8H2QgK1JDBD4xwesowPxIpJswVZK964vKBZ39++cEI5LiAIZt/WB6MvexgNyyr\n/XNsyZ+G6R7mkJlrNrWCr1d9KdT0PiVcf1uraVPK80zuajZZWNwDRTkRT86eq/A4\n6C3VhFMRwAYKsTpMMEn0cjj33rqPVeXXQvfu34/RBQKBgQDqAhlR5GTCsneuxtM8\nGhBGSpBt19MJHWy5og7wDswClqsIqnI4vnuDULy7iVpputpl4uLKtbV15csOSsDz\np0G6mRDtFooK2/AO4m8lSnxTASNzrNjR7L2NWpQmvDj+AWc3OVHJYPBiIAIFDsW/\nJABg0h8zPdoBXD5Vlx41bX5wewKBgQDjZl6UKQcCnSh1VaovF7AlxkzCW0CZygV6\nNAYKB4VZViFRz0Rpk6qbZyi8zZSFFGK9hErQCWH2ga32Z3t3yLwrDCwJyVChpxCn\nMIgkP+4zDmXuKsphHM/fjyBaxUi5Xa2vFnuBeGwRMRlTyrho30/IMGdwyNae4kIF\nfeUr1V6sFQKBgQCuhYQ2tByFrC5gVf6CK3oJwmB222iTurM0uu1jEdYK9C14mA35\nze414EfxoZ2hju6E4DJ+NgiwdgH7lbrTvODjdnbOK2omcSNXJn74E9Ym3YmAIt/N\nqD8yJeSqAuSKY6eD4ybhBoAg3nhDJ2JJjGMP0oXcZHurWg1PLhYkiJWs8wKBgAtn\nvACkWiSoazoPVNzNzFjorDrnRsMv3bx2VYM1Q1vqtPsccSr2bA0lTGbDzNor3pPw\nyavLfK1Xbbk5EXk9iSqDjsXi4fdpoK0yAvIGftTyuOwMG2BpiIeG7zF+SZp6d1ab\nwxAIUSs/kiygs0UXRjIdM2L1v8XyRStvWAotxnTNAoGBALSvmzb1zATYfkB0Um/H\nUGDjVwEjFd1jrZePXaW7kSKtnYbtTe2a1hdG2vRO8U+8pbq033EX0Mo6vkr2Q063\n53HNneffUBlo8EXT6P12M5g2YhZ4H+cjXc5UAL0fogyoZrnivfh7P7pmMbk5WISL\nu8IaHsmFf85tbJoO7z+txyQR\n-----END PRIVATE KEY-----\n",
+  "client_email": "agroserviciosjl@agroserviciosjl.iam.gserviceaccount.com",
+  "client_id": "114821656112115799384",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agroserviciosjl%40agroserviciosjl.iam.gserviceaccount.com"
+}
